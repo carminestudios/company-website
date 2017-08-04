@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="303px" height="345px" viewBox="0 0 303 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-34.7%" y="-5.7%" width="146.0%" height="116.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-34" dy="18" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.631372549   0 0 0 0 0.415686275  0 0 0 0.6 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="149.909136" height="315.99637" rx="27.7136259"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="test" transform="translate(-21.000000, -592.000000)">
+            <g id="Group-6" transform="translate(-23.000000, 588.000000)">
+                <g id="Group-13">
+                    <path d="M41.5924253,45.8319682 L300.007681,38.9178476 L300.007681,38.9178476 C309.728982,38.6577459 318.228403,45.4279643 320.148777,54.9612485 L368.131549,293.161441 L368.131549,293.161441 C370.312767,303.98963 363.303012,314.535837 352.474824,316.717055 C351.349852,316.943668 350.207464,317.073037 349.060305,317.103731 L90.6450492,324.017851 L90.6450492,324.017851 C80.9237484,324.277953 72.4243277,317.507735 70.5039539,307.97445 L22.5211813,69.7742575 L22.5211813,69.7742575 C20.3399634,58.946069 27.3497182,48.3998614 38.1779067,46.2186436 C39.3028784,45.9920306 40.4452668,45.8626614 41.5924253,45.8319682 Z" id="Rectangle-4" fill="#ED3636" transform="translate(195.326365, 181.467849) rotate(10.000000) translate(-195.326365, -181.467849) "></path>
+                    <g id="Device" filter="url(#filter-1)" transform="translate(201.259455, 167.514000) rotate(-8.000000) translate(-201.259455, -167.514000) translate(126.259455, 9.514000)">
+                        <g id="Body">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#D6D6D6" stroke-width="1.03926097" x="0.519630485" y="0.519630485" width="148.869875" height="314.957109" rx="27.7136259"></rect>
+                        </g>
+                        <rect id="Top-Grill" fill="#D6D6D6" x="62.2593853" y="18.9597822" width="25.2559616" height="2.4307413" rx="1.21537065"></rect>
+                        <ellipse id="Home-Button" stroke="#D6D6D6" stroke-width="1.03926097" cx="75.1316586" cy="294.369069" rx="11.4145499" ry="11.4294185"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

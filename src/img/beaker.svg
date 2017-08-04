@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="test" transform="translate(-49.000000, -307.000000)">
+            <g id="Group-2" transform="translate(32.000000, 293.000000)">
+                <g id="Group" transform="translate(16.000000, 14.000000)">
+                    <path d="M8,0.5 C7.17157288,0.5 6.5,1.17157288 6.5,2 C6.5,2.82842712 7.17157288,3.5 8,3.5 L8.5,3.5 L8.5,7.124188 L1.77324504,19.8302807 C1.58245667,20.1906587 1.48271483,20.5922347 1.48271483,21 C1.48271483,22.3807119 2.60200296,23.5 3.98271483,23.5 L18.0172852,23.5 C18.4250505,23.5 18.8266264,23.4002582 19.1870045,23.2094698 C20.4072609,22.5634517 20.8727731,21.0505372 20.226755,19.8302807 L13.5,7.124188 L13.5,3.5 L14,3.5 C14.8284271,3.5 15.5,2.82842712 15.5,2 C15.5,1.17157288 14.8284271,0.5 14,0.5 L8,0.5 Z" id="Rectangle-6" stroke="#ADADAD"></path>
+                    <rect id="Rectangle-7" fill="#ADADAD" x="3" y="17" width="7" height="1"></rect>
+                    <rect id="Rectangle-7" fill="#ADADAD" x="5" y="13" width="5" height="1"></rect>
+                    <rect id="Rectangle-7" fill="#ADADAD" x="7" y="9" width="3" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

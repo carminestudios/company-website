@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="377px" height="383px" viewBox="0 0 377 383" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-10.3%" y="-4.9%" width="133.3%" height="118.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="20" dy="29" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.592156863   0 0 0 0 0.490196078   0 0 0 0 0.882352941  0 0 0 0.4 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="149.909136" height="315.99637" rx="27.7136259"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="test" transform="translate(-386.000000, -110.000000)">
+            <g id="Group-12" transform="translate(386.000000, 110.000000)">
+                <path d="M45.0973045,41.9109231 C96.5747622,-5.53826645 175.040402,-2.54147553 217.022018,30.9226898 C259.003634,64.3868551 267.436696,144.806629 331.934789,124.822139 C405.822435,101.928331 376.452202,166.277746 331.934789,219.417645 C287.417376,272.557544 162.545873,301.133338 82.5808902,246.691636 C2.61590744,192.249934 -6.38015312,89.3601127 45.0973045,41.9109231 Z" id="Rectangle-2" fill="#EC348C"></path>
+                <circle id="Oval" fill="#3A316A" cx="296.5" cy="252.5" r="70.5"></circle>
+                <g id="Device" filter="url(#filter-1)" transform="translate(221.000000, 188.000000) rotate(15.000000) translate(-221.000000, -188.000000) translate(146.000000, 30.000000)">
+                    <g id="Body">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#D6D6D6" stroke-width="1.03926097" x="0.519630485" y="0.519630485" width="148.869875" height="314.957109" rx="27.7136259"></rect>
+                    </g>
+                    <rect id="Top-Grill" fill="#D6D6D6" x="62.2593853" y="18.9597822" width="25.2559616" height="2.4307413" rx="1.21537065"></rect>
+                    <ellipse id="Home-Button" stroke="#D6D6D6" stroke-width="1.03926097" cx="75.1316586" cy="294.369069" rx="11.4145499" ry="11.4294185"></ellipse>
+                </g>
+                <circle id="Oval-2" fill="#FFE333" cx="48" cy="51" r="17"></circle>
+                <circle id="Oval-2" fill="#FFE333" cx="163.5" cy="5.5" r="5.5"></circle>
+                <circle id="Oval-2" fill="#FFE333" cx="80.5" cy="269.5" r="4.5"></circle>
+                <circle id="Oval-2" fill="#98F786" cx="2.5" cy="96.5" r="2.5"></circle>
+                <circle id="Oval-2" fill="#98F786" cx="33.5" cy="223.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
